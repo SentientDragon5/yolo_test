@@ -1,3 +1,5 @@
+# https://aihub.qualcomm.com/models/yolov8_det
+
 from ultralytics import YOLO
 import cv2
 import math
